@@ -19,8 +19,9 @@ public class RobotMain
     public static void main (String[] args)
     {
       RobotTask task = new RobotTask ();
-      task.run ();
-
+      task.run (); //this runs the robot task 
+      //test sarah
+      //blala
     }
 
 }
